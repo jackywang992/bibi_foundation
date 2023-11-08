@@ -1,7 +1,7 @@
 ## BiBi Coin
 Bibi is a purely community-driven project with a focus on meme culture that aims to build a creative, interactive, educative, and inclusive community. #
 - - - -
-#### 各平台安装包下载（请在浏览器中打开）
+#### 目录
 
 **:arrow_double_down: [新手入门必备 - 科学梯子选择](https://)** 
 
