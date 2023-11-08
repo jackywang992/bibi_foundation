@@ -1,31 +1,27 @@
-## 快连 - 永远能连上的梯子 #
+## BiBi Coin
+Bibi is a purely community-driven project with a focus on meme culture that aims to build a creative, interactive, educative, and inclusive community. #
 - - - -
 #### 各平台安装包下载（请在浏览器中打开）
 
-**:arrow_double_down: [iOS 大陆用户下载教程](https://lets-contact.onelink.me/0dzS/3my1vynb)** 
+**:arrow_double_down: [新手入门必备 - 科学梯子选择](https://)** 
 
-**:arrow_double_down: [iOS 海外商店版本](https://lets-contact.onelink.me/0dzS/5zggrqgp)**
+**:arrow_double_down: [新手入门必备 - 如何购买bibi](https://)**
 
-**:arrow_double_down: [Android 版本.apk](https://lets-contact.onelink.me/0dzS/i809x9ah)**
+**:arrow_double_down: [新手入门必备 - 如何防止被盗](https://l9x9ah)**
 
-**:arrow_double_down: [Windows 版本.exe](https://lets-contact.onelink.me/0dzS/rin2hr10)**
+**:arrow_double_down: [BiBi介绍文档](https://)**
 
-**:arrow_double_down: [macOS 版本.dmg](https://lets-contact.onelink.me/0dzS/ec04g6tl)**
+**:arrow_double_down: [ BiBi其他资源](https://)**
 
-**:globe_with_meridians: [访问官方网站](https://lets-contact.onelink.me/0dzS/kf8su4wr)** 
+**:globe_with_meridians: [访问官方网站](https://bibibsc.io/)** 
 - - - -
-#### 联系真人客服（请在浏览器中打开）
-
-**:speech_balloon: [在线客服直达（分钟级回复）](https://help.stnrun.art/letsvpn-world/en/collections/1611781-%E4%B8%AD%E6%96%87%E5%B8%AE%E5%8A%A9)**
-
-**:e-mail: [邮件客服（分钟级回复）](mailto:letsvpn@rbox.me)**
 - - - -
 #### 关注社交媒体（请在翻墙网络下打开）
-**:couple: [Facebook](https://www.facebook.com/letsvpn/)** 
+**:couple: [Telegram](https://t.me/BiBi_Global/1)** 
 
-**:camera: [Instagram](https://www.instagram.com/letsvpn/)**
+**:camera: [discord](https://discord.gg/f7ZyDNVV)**
 
-**:bird: [Twitter](https://twitter.com/letsvpn)** 
+**:bird: [Twitter](https://twitter.com/BIBI_Foundation)** 
 
-**:airplane: [Telegram](http://t.me/letsvpn11)**
+**:airplane: [QQ](q群号)**
 ###
